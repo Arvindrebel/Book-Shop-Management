@@ -29,8 +29,8 @@ public class Cart extends Bill{
         System.out.println("total Amount: "+ Integer.toString(totalAmt));
     }
     public int calcBill() {
-    	int total;
-    	total=0;
+    	int total=0;
+    	
     	
 //    	write your code here!!!
 //    	----------------------	
