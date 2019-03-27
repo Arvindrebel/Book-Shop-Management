@@ -30,8 +30,9 @@ public class Cart extends Bill{
     }
     public int calcBill() {
     	int total=0;
+    	//total=0;
 //    	write your code here!!!
-//    	----------------------
+//    	----------------------	
     	return total;
     	
     }
